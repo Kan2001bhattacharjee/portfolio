@@ -1,0 +1,27 @@
+.Footer
+{
+    min-height: 200px;
+    width: 100%;
+   
+    background-color: rgb(153, 148, 148);
+    display:flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-wrap: wrap;
+   
+}
+
+.footerb
+{
+    height:250px;
+    width: 300px;
+    
+    float: left;
+    color: white;
+    text-align: center;
+    gap:20%;
+    
+}
+.footerb a{
+    text-decoration: none;
+}
